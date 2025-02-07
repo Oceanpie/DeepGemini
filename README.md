@@ -15,7 +15,7 @@
 <details>
 <summary><strong>更新日志：</strong></summary> 
 <div>
-2025-02-07.2:CLaude 是什么？我不熟。暴改成Gemini
+2025-02-07.2:Claude 是什么？和A➗不熟。暴改成Gemini（在改了）
 
 2025-02-07.1: 支持 Claude temputerature 等参数；添加更详细的 .env.example 说明
 
