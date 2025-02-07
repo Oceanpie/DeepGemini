@@ -1,5 +1,5 @@
 <div>
-<h1>DeepClaude 🐬🧠 - OpenAI Compatible</h1>
+<h1>DeepGemini 🐬🧠 - OpenAI Compatible</h1>
 
 <a href="https://github.com/getasterisk/deepclaude"> Inspiration from getasterisk/deepclaude</a>
 
@@ -8,15 +8,15 @@
 
 </div>
 
-<div>
-<h3 style="color: #FF9909"> 特别说明：对于不太会部署，只是希望使用上最强 DeepClaude 组合的朋友，请直接链接 Erlich（微信：geekthings）购买按量付费的 API 即可，国内可以直接访问 </h3>
-</div>
+
 
 ---
 
 <details>
 <summary><strong>更新日志：</strong></summary> 
 <div>
+2025-02-07.2:CLaude 是什么？我不熟。暴改成Gemini
+  
 2025-02-07.1: 支持 Claude temputerature 等参数；添加更详细的 .env.example 说明
 
 2025-02-06.1：修复非原生推理模型无法获得到推理内容的 bug
