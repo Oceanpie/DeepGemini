@@ -16,7 +16,7 @@
 <summary><strong>更新日志：</strong></summary> 
 <div>
 2025-02-07.2:CLaude 是什么？我不熟。暴改成Gemini
-  
+
 2025-02-07.1: 支持 Claude temputerature 等参数；添加更详细的 .env.example 说明
 
 2025-02-06.1：修复非原生推理模型无法获得到推理内容的 bug
@@ -79,7 +79,7 @@
 
 1. 获取 DeepSeek API，因为最近 DeepSeek 还在遭受攻击，所以经常无法使用，推荐使用 Siliconflow 的效果更好（也可以本地 Ollama 的）: https://cloud.siliconflow.cn/i/RXikvHE2 (点击此链接可以获得到 2000 万免费 tokens)
 2. 获取 Claude 的 API KEY （目前还没有做中转模式，以及对 Google 和 AWS 托管的版本的兼容支持，欢迎 PR）：https://console.anthropic.com
-   注：`但是！大家也可以联系我，我可以为大家提供按量计费的 DeepClaude 的直接 API 服务！微信：geekthings`
+
 
 ## 2. 开始运行
 Step 1. 克隆本项目到适合的文件夹并进入项目
